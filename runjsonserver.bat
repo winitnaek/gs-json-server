@@ -1,0 +1,1 @@
+node C:\Users\vnaik\AppData\Roaming\npm\node_modules\json-server\bin\index.js --watch db.json --routes routes.json --port 30024
